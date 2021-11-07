@@ -1,0 +1,15 @@
+[submodule "genius_c_utf8"]
+	path = genius_c_utf8
+	url = https://github.com/GeniusChinez/genius_c_utf8.git
+[submodule "clargs"]
+	path = clargs
+	url = https://github.com/GeniusChinez/clargs.git
+[submodule "scoped-chunks"]
+	path = scoped-chunks
+	url = https://github.com/GeniusChinez/scoped-chunks.git
+[submodule "memory-guard"]
+	path = memory-guard
+	url = https://github.com/GeniusChinez/memory-guard.git
+[submodule "sformat"]
+	path = sformat
+	url = https://github.com/GeniusChinez/sformat.git
